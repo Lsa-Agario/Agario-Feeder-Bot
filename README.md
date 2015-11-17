@@ -1,1 +1,1 @@
-# Agario-Feeder-Bot
+Anyone willing to help me create an agario suicide/feeder bot with over 150 bots? This needs to be a local script. It would be fine to edit another script such as pulviscriptor's. Will pay a bit of money if you want (but just a bit). Add me on skype to talk about this: Agario-Lord
